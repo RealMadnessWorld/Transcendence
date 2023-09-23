@@ -1,0 +1,5 @@
+.env
+.env.production
+.vscode
+.DS_Store
+node_modules/
